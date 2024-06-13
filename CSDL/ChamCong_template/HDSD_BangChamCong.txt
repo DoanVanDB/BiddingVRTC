@@ -1,0 +1,32 @@
+Hướng dẫn sử dụng:
+Bước 1: Tạo tài khoản gmail của bạn, ghi chép tên tài khoản và mật khẩu. Nếu đ/c đã có tài khoản gmail, vui lòng bỏ qua bước này.
+Bước 2: Cài đặt Google Drive lên máy tính: Tải bản cài đặt mới nhất từ trang chủ của Google, cài đặt và đăng nhập. Nếu đ/c đã cài đặt và đăng nhập trước đó, vui lòng bỏ qua bước này.
+Bước 3: Cài đặt chế độ "Mirror" thay vì "Stream" trong Google Drive.
+Bước 4: Mở trình duyệt web, đăng nhập vào Google Drive online, chọn mục "Được chia sẻ với tôi / Shared with me", chọn tiếp "Sắp xếp / "Arrange", chọn tiếp "Thêm lối tắt / Create a short cut", sau đó chọn đường dẫn mong muốn. Bây giờ đ/c có thể quan sát thấy gốc bên phải màn hình máy tính của đ/c có biểu tượng Google Drive đang đồng bộ tệp tin.
+
+Hướng dẫn sử dụng Bảng chấm công của từng đề tài:
+* Những điểm lưu ý: 
+- Module chấm công chỉ chạy được khi thêm folder Chấm công vào Google Drive của mình. Chú ý: Ứng dung không thể chạy trực tiếp trên trình duyệt web như Chrome, Microsoft Edge, v.v.
+- Mỗi đề tài cần làm một file chấm công riêng và đổi tên file theo cách dễ phân biệt với đề tài khác, vd. T-1.1, T-1.6, v.v.
+Khuyến nghị: Chấm công cách ngày để người khác có thể sử dụng công của cán bộ khi cần. Không chấm liên tục một người trong nhiều ngày.
+- Bảng chấm công tổng có dạng: BangCongTong.xlsb
+- Quy ước cách sử dụng ngày công như sau:
+	+ Để trống: Ngày công chưa sử dụng
+	+ "x": Ngày thực hiện
+	+ "CT": Ngày đi công tác
+	+ "P": Ngày nghỉ phép
+	+ "B": Nghỉ ốm, bệnh
+- Quy ước sử dụng màu sắc trong bảng công từng nhiệm vụ:
+	+ Màu đỏ cho biết ngày công do nhiệm vụ khác đã chấm rồi.
+	+ Màu xanh cho biết ngày công do chính nhiệm vụ hiện tại đã sử dụng.
+* Thao tác:
+1) Chấm công ô còn trống
+- Sử dụng ngày công chưa chấm bằng cách click chọn trong danh mục đổ xuống của mỗi ô ngày công.
+- Khi chấm công xong, nhấn nút màu đỏ bên phải để tải lên Bảng công tổng, quan sát kết quả thông báo.
+2) Sửa, xóa ngày công đã chấm
+- Chọn ngày công đã chấm, chọn trong danh mục đổ xuống của mỗi ô ngày công.
+- Nhấn nút màu đỏ bên phải để tải lên Bảng công tổng, quan sát kết quả thông báo.
+3) Xem ngày công sử dụng của cả phòng.
+- Nhấn nút "Xem bảng công tổng" để thấy tình hình sử dụng ngày công của các đề tài, nhiệm vụ của phòng.
+- Mỗi đề tài được gán cho một màu, số lượng ngày công tổng của mỗi đề tài được thể hiện ở cột "Tổng ngày công"
+
